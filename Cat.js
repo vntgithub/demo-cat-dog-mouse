@@ -7,3 +7,4 @@ cat.prototype.eat = function(mouse) {
 cat.prototype.say = function(){
 	console.log('Meow meow');
 }
+module.exports = Cat;
